@@ -1,3 +1,5 @@
+# Output contract: write one single-line one-star review of at most 160 characters
+# to entry.txt, with no trailing newline.
 import os
 
 LINE = "One star. Sleep takes eight hours a night and gives nothing back. Would not recommend."
